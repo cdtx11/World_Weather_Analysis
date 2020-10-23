@@ -7,5 +7,5 @@ In the second deliverable, I imported the dataframe created in deliverable 1 so 
 
 ## Deliverable 3
 In the final step I used the Google Directions API to create a travel itinerary to show the route between four cities from the customer's possible travel destinations. There's also a marker layer map with a pop up marker for each city. 
-![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 ![](Vacation_Itinerary/WeatherPy_travel_map.png)
